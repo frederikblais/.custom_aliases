@@ -3,5 +3,3 @@ alias rmd="rm -rf"
 
 # Copy the PWD to the Clipboard
 alias cpwd="pwd | tr -d '\n' | pbcopy && echo 'pwd copied to clipboard'"
-
-alias welcome='echo "Welcome $USER."'
